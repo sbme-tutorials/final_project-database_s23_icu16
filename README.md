@@ -1,6 +1,9 @@
 # final_project-database_s23_icu16
 Team 16_ICU project
-Team Members
+
+
+Team Members:
+
 
 Ahmed Khaled              Sec:1   BN:2
 
@@ -14,7 +17,9 @@ Shehab Mohamed Ibrahim   Sec:1    BN:33
 Hussein Mohamed          Sec:1    BN:19
 
 
+
 Mohamed Gamal            Sec:1    BN:48
+
 
 
 Mohamed Aziz          Sec:1    BN:49
@@ -32,7 +37,7 @@ Then use npm run dev
 
 The database we used was on localhost and we tried to share it but we failed.
 
-Then open the login files in vscode and from index.html you can start the website by go live stream.
+Then open the login files in vscode and from index.html you can start the website by go live.
 
 
 In the login page on the website we can access through only some users from Java script code like: 
